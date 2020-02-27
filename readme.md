@@ -10,6 +10,6 @@ Custom made Taxi Worksheet Management
 6. Periodic Reports
 7. Invoicing
 
-The application is made with Laravel Vue JS
+The application is made with Laravel and Vue JS
 
 # Enjoy
